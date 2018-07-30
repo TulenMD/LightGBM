@@ -1,4 +1,11 @@
 {
     "feature": 64,
     "threshold": 1,
-}
+    "left": {
+        "feature": 26,
+        "threshold": 0.85
+    },
+    "right": {
+        "feature": 26,
+        "threshold": 0.85
+    }
